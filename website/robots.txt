@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://em.fsu.edu/people/merrick/TEST/sitemap.xml.gz
