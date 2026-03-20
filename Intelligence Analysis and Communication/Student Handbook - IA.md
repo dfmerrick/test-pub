@@ -7,6 +7,8 @@ title: Student Handbook
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Course Code: **PAD 4841 (undergraduate) / PAD 5896 (graduate)** <br>Modality: **Classroom**<br>Location/Time: **Per Canvas**<br>Course Version: **6.5** |
 # Intelligence Analysis and Communication - Student Handbook
+TEST. 
+
 This Student Handbook contains all the critical information a student in this course needs to be successful.  This graduate sections of this course are taught in a combined manned - graduate students will attend the same lectures and activities as undergraduates. Graduate students will have higher standards on all assignments, and are expected to demonstrate higher understanding and participation.
 
 All course material/assignment submissions will be handled through Canvas. This site is a convenience for the instructor and students, and does not replace official university systems, doctrine, or requirements. 
