@@ -1,7 +1,7 @@
 input: .
 output: ./website
 
-url: em.fsu.edu/people/merrick/TEST # Use your website address here
+url: dfmerrick.github.io # Use your website address here
 
 start:
   # Uncomment the next line to try Retype Pro features
