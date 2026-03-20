@@ -1,0 +1,21 @@
+input: .
+output: ./website
+
+url: em.fsu.edu/people/merrick/TEST # Use your website address here
+
+start:
+  # Uncomment the next line to try Retype Pro features
+  # pro: true
+
+branding:
+  title: Course Info
+  label: SP26
+
+links:
+  - text: EMHS
+    link: https://em.fsu.edu
+  - text: Merrick Home
+    link: https://em.fsu.edu/faculty-merrick.php
+
+footer:
+  copyright: "&copy; Copyright {{ year }} by David Merrick, Florida State University. All rights reserved."

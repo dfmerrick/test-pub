@@ -1,0 +1,147 @@
+{
+  "version": "4.1.0",
+  "created": "2026-03-20T17:29:17Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "disaster-and-geospatial-intelligence-systems/student-handbook/index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/analytic-tradecraft-and-the-intelligence-community-enduring-value-intermittent-emphasis.pdf"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assessments/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/classroom-assignment-(ca)-1-bias/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/classroom-assignment-(ca)-2-qualitative-analysis/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/classroom-assignment-(ca)-3-structured-analytics/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/classroom-assignment-(ca)-4-quantitative-analysis/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/classroom-assignment-(ca)-5-analysis-of-competing-hypotheses/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/classroom-assignment-(ca)-6-profile-assessment/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/classroom-assignment-(ca)-7-cryptography/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/homework-(hw)-1-briefing-1/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/semester-intelligence-project-(sip)-1-topic-understanding/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/semester-intelligence-project-(sip)-2-collection-and-qualitative-analysis/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/semester-intelligence-project-(sip)-3-written-analysis/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/semester-intelligence-project-(sip)-4-final-product/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignment-details/semester-intelligence-project-(sip)-group-briefing/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/assignments/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/citations/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/icd-206.pdf"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/ics-206-01.pdf"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/ics-20601_-the-new-standard-every-osint-professional-must-know-_-by-ervin-zubic-_-osint-ambition.pdf"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/intelligence-requests-spring-2026/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/module-map/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/readings/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/semester-intelligence-project-(sip)/index.html"
+    },
+    {
+      "path": "intelligence-analysis-and-communication/student-handbook-ia/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "screenshot-2026-03-20-at-12.51.24.png"
+    },
+    {
+      "path": "screenshot-2026-03-20-at-12.51.33.png"
+    },
+    {
+      "path": "sip1/index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    }
+  ]
+}
